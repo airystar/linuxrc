@@ -1,20 +1,6 @@
-shadowsocks 
-
-（洛杉矶）
-192.227.160.201
-密码：fanyue.info
-端口：8388
-加密：aes-256-cfb
-本地：1080
-
-
-(加拿大）
-发邮件到et@fanyue.info获取
-
-美国-达拉斯
-
-IP：107.155.97.40
-服务器端口：8388
-密码：goagent
-本地端口：1080
-加密：aes-256-cfb
+Server IP: 107.191.117.184
+Server Port: 8388
+Password: password
+SOCK5 Proxy Port: 1080
+Encryption Method: AES-256-CFB
+Timeout in Second: 600﻿
